@@ -17,5 +17,5 @@ https://adj46.github.io/SFITwebsiteusingBOOTSTRAP/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](images/site.JPG)
 
